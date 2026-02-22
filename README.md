@@ -1,4 +1,5 @@
-Front-end Developer  
-Focused on simplicity, clarity, and user experience.
-
-> “Simple can be harder than complex.”
+<p align="center">
+  “Details matter, it’s worth waiting to get it right.”
+<br>
+  <span>— Steve Jobs</span>
+</p>
